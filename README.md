@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @dmolina23
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute to more Open Source & IoT projects
-- ⚡ Fun Fact: I'm love IoT
+- ⚡ Fun Fact: I'm love with IoT
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
