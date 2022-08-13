@@ -2,42 +2,30 @@
 
 ## I'm Student and Developer! 
 - 👋 Hi, I’m @dmolina23
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute to more Open Source & IoT projects
-- ⚡ Fun Fact: I'm in love with IoT
+- Junior Software Developer Full-Stack (now working in FrontEnd)
+- 🥅 2022 Goals: Contribute to more Open Source & IoT projects. Learn about blockchain development and web3.
+- ⚡ Fun Fact: I'm in love with IoT, Blockchain, Web3.0 and VR
 
 ### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<h3 align="center">Languages</h4>
+<p align="center">
+<a><img src="https://skillicons.dev/icons?i=js,ts,java,python,dart,css,scss,md"/></a>
+</p>
 
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<h3 align="center">Frameworks</h3>
+<p align="center">
+  <a><img src="https://skillicons.dev/icons?i=angular,react,flutter,nodejs,express,spring"/></a>
+</p>
 
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<h3 align="center">Databases</h3>
+<p align="center">
+  <a><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,graphql"/></a>
+</p>
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2752187-2285004.png" />
-
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://w7.pngwing.com/pngs/321/703/png-transparent-computer-icons-github-logo-github-monochrome-rim-black-and-white.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<h3 align="center">IDEs</h3>
+<p align="center">
+  <a><img src="https://skillicons.dev/icons?i=idea,vscode,eclipse,visualstudio"/></a>
+</p>
 
 <br />
 <br />
