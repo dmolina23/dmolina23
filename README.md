@@ -2,9 +2,9 @@
 
 ## I'm Student and Developer! 
 - 👋 Hi, I’m @dmolina23
-- Junior Software Developer Full-Stack (now working in FrontEnd)
-- 🥅 2022 Goals: Contribute to more Open Source & IoT projects. Learn about blockchain development and web3.
-- ⚡ Fun Fact: I'm in love with IoT, Blockchain, Web3.0 and VR
+- Junior Software Developer.
+- 2023 Goals: Contribute to more Open Source.
+- ⚡ Fun Fact: I'm in love with IoT, statistics and Machine Learning
 
 ### Languages and Tools:
 <h3 align="center">Languages</h4>
@@ -31,3 +31,9 @@
 <br />
 
 ---
+
+
+<h3 align="center">Youd can find me in</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/david-molina-g%C3%A1mez-683571226/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+</p>
